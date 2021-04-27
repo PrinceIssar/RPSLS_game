@@ -2,7 +2,7 @@
 
 Here is "Rock Paper Scissors Lizard and Spock Games".
 
-I use HTML ,CSS and JS. to compelete this game.
+I use HTML ,CSS and JS. to complete this game.
 
 
 You can choose any option and computer will randomly pick one for itself.
