@@ -1,6 +1,6 @@
 # RPSLS_game
 
-Here is my "Rock Paper Scissors Lizard and Spock Games".
+Here is "Rock Paper Scissors Lizard and Spock Games".
 
 You can choose any option and computer will randomly pick one for itself.
 I use HTML ,CSS and JS. to compelete this game.
